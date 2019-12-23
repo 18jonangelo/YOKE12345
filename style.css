@@ -361,23 +361,9 @@ margin-top: 150px;
     color: white;
     font-weight: bold;
     position: relative;
-    top: -1200px;
+    top: -20px;
     text-align: center;
     padding-top: -30px
-  }
-  .quote{
-    font-family: Avenir;
-    font-size: 20px;
-    color: white;
-    font-weight: bold;
-    position: relative;
-    top: -1100px;
-    text-align: center;
-    border: solid white 2px;
-    border-radius: 5%;
-    margin-left: 45%;
-    width: 150px;
-    padding: 4px 6px 4px 6px;
   }
 
   .clients2 {
